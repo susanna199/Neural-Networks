@@ -1,5 +1,3 @@
-# gui_app.py - GUI for Neural Network Simulator
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 from models.perceptron import Perceptron
